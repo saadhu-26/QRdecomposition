@@ -51,7 +51,7 @@ print(R)
 
 ## Output
 ```
-<img width="892" height="418" alt="image" src="https://github.com/user-attachments/assets/426ced66-c00e-4172-8af1-77cb7e2d487b" />
+![WhatsApp Image 2025-10-30 at 11 02 15](https://github.com/user-attachments/assets/bcd3b6a8-7e36-4dfa-93af-07bbacf29377)
 ```
 
 ## Result
