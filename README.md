@@ -51,8 +51,7 @@ print(R)
 
 ## Output
 ```
-<img width="462" height="216" alt="Screenshot 2025-10-30 at 10 47 54 AM" src="https://github.com/user-attachments/assets/1afa10f9-6955-4ced-9dd1-6d64085215f9" />
-
+<img width="446" height="209" alt="Screenshot 2025-10-30 at 10 59 05 AM" src="https://github.com/user-attachments/assets/6d6f7674-cb7c-4765-bfdc-66a8661df321" />
 ```
 
 ## Result
